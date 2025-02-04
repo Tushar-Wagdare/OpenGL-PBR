@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\21_NormalMapping\x64\Debug\NormalMapping.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\OpenGL\OpenGL-PBR\01_NormalMapping\x64\Debug\NormalMapping.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

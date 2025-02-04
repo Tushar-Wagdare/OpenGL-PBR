@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\22_ParalaxMapping\x64\Debug\ParalaxMapping.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\OpenGL\OpenGL-PBR\02_ParalaxMapping\x64\Debug\ParalaxMapping.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
