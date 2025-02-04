@@ -25,14 +25,14 @@ This repository demonstrates Physically Based Rendering (PBR) techniques in Open
 
 
 ##### Image Based Lighting
-![Parallax Mapping](02_ParalaxMapping/S2.png)
-![Parallax Mapping](02_ParalaxMapping/S2.png)
+![Image Based Lighting](03_PBR-IBL/S1.png)
+![Image Based Lighting](03_PBR-IBL/S2.png)
 
 
 
 
 
-[![OpenGL](02_Tessilation/Tesselation.png)](https://youtu.be/Sx4YjVkJDxQ)
+
 
 ## Folder Structure
 
@@ -56,7 +56,6 @@ This repository demonstrates Physically Based Rendering (PBR) techniques in Open
 ## Dependencies
 
 *   **GLEW (OpenGL Extension Wrangler Library):** Download GLEW and add the `include` directory and library files (e.g., `glew32.lib`) to system environment variables.
-*   **Assimp (Open Asset Importer Library):** Download Assimp and add the `include` directory and library files to system environment variables.
 *   **GLM (OpenGL Mathematics):** Download GLM. Simply copy the `glm` directory into the project's include path.
 
 **Note:** Add GLEW, Assimp, and GLM to system environment variables (INCLUDE and LIB) so Visual Studio can find them.
