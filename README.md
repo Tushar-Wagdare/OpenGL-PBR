@@ -6,12 +6,33 @@ This repository demonstrates Physically Based Rendering (PBR) techniques in Open
 
 ## Screenshots
 
-[![Normal Mapping](01_NormalMapping/NormalMappingThumb.png)](https://www.youtube.com/YOUR_NORMAL_MAPPING_VIDEO_LINK_HERE)
-[![Parallax Mapping](02_ParallaxMapping/ParallaxMappingThumb.png)](https://www.youtube.com/YOUR_PARALLAX_MAPPING_VIDEO_LINK_HERE)
+##### Normal Mapping
+![Normal Mapping](01_NormalMapping/S2.png)
 
-## Video Demo
 
-[Link to Video Demo]
+
+[![OpenGL](01_NormalMapping/NormalMappingThumb.png)](https://youtu.be/WpxeeMz6_Bw)
+
+
+
+##### Parallax Mapping
+![Parallax Mapping](02_ParalaxMapping/S2.png)
+
+
+
+[![OpenGL](02_ParalaxMapping/ParallaxMappingThumb.png)](https://youtu.be/CEOvsGvtLeY)
+
+
+
+##### Image Based Lighting
+![Parallax Mapping](02_ParalaxMapping/S2.png)
+![Parallax Mapping](02_ParalaxMapping/S2.png)
+
+
+
+
+
+[![OpenGL](02_Tessilation/Tesselation.png)](https://youtu.be/Sx4YjVkJDxQ)
 
 ## Folder Structure
 
