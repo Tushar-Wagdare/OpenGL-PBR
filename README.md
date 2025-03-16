@@ -74,4 +74,3 @@ After building:
 
 *   **`01_NormalMapping`:** Observe enhanced details using normal mapping.
 *   **`02_ParallaxMapping`:** Experiment with parallax mapping for depth illusion.
-*   Remember to replace link to your appropriate links to the video
